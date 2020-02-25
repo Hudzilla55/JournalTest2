@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">JournalTest2</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_journal">Sepsis Journal</string>
+    <string name="send_answer_button">Send</string>
+    <string name="sepsis_journal_question">How would you describe your current level of anxiety?</string>
+    <string name="answer_not_anxious">Not anxious</string>
+    <string name="answer_anxious">Anxious</string>
+    <string name="answer_hyperaware">Hyperaware or on edge</string>
+    <string name="answer_something_wrong">Feels like something is wrong</string>
+    <string name="answer_doom">Has a sense of doom</string>
+</resources>
